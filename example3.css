@@ -1,0 +1,33 @@
+body{
+	color:black;
+	background-color:green;
+}
+
+#wrapper{
+	margin:0 auto;
+  width: 1000px;
+}
+
+#content1{
+  float:left;
+  height: 300px;
+  width: 300px;
+  padding-top: 10px;
+  background-color: blue;
+}
+
+#content2{
+  float: right;
+  height: 300px;
+  width: 300px;
+  padding-top: 10px;
+  background-color: red;
+}
+
+#content3{
+  clear: both;
+  margin: auto;
+  height: 300px;
+  width: 300px;
+  background-color: yellow;
+}

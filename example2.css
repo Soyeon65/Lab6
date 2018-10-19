@@ -1,0 +1,46 @@
+body{
+	color:black;
+	background-color:green;
+}
+
+#header, #leftbody, #rightbody, #middle, #bottom {
+	font-weight: bold;
+}
+
+#wrapper{
+	margin:0 auto;
+	background-color:red;
+  width: 960px;
+}
+
+#header{
+	height:70px;
+  font-size: 20px;
+	text-align:center;
+}
+
+#leftbody{
+	float:left;
+	background-color:pink;
+  height: 70px;
+  width: 300px;
+	padding-top: 5px;
+}
+
+#rightbody{
+	background-color:orange;
+  height: 70px;
+	padding-top: 5px;
+}
+
+#middle{
+  background-color: blue;
+  height: auto;
+  height: 500px;
+}
+
+#bottom{
+  background-color: yellow;
+	height:70px;
+	clear:both;
+}

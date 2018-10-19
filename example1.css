@@ -1,0 +1,31 @@
+body{
+	color:white;
+	background-color:white;
+}
+
+
+#wrapper{
+	margin:0 auto;
+	background-color:red;
+}
+
+#header{
+	height:70px;
+	text-align:center;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 5px;
+}
+
+#leftbody{
+	background-color:green;
+	height: 500px;
+	padding-top: 5px;
+}
+
+#bottom{
+  background-color: blue;
+	height:70px;
+	clear:both;
+	padding-top: 5px;
+}
